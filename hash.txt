@@ -1,0 +1,4 @@
+Привет изменения!!! 
+ttt ---(замена):his is a 
+ttt ---(замена):ex
+ttt ---(замена): file thatwill be used to verify dataintegrity.
