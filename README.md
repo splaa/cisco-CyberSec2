@@ -5,5 +5,5 @@
 - [md5sum — программа, позволяющая вычислять значения хеш-сумм](https://ru.wikipedia.org/wiki/Md5sum)
 
 2. Лабораторная работа [1.2.1.4](https://github.com/splaa/cisco-CyberSec2/blob/master/1.2.2.4%20Lab%20-%20What%20was%20Taken.pdf) Что пропало?
-3. Лаболаторная работа [3.1.1.5](https://github.com/splaa/cisco-CyberSec2/blob/master/3.1.1.5%20Lab%20-%20Create%20and%20Store%20Strong%20Passwords.pdf)Создание и сохранение надежных паролей.
+3. Лаболаторная работа [3.1.1.5](https://github.com/splaa/cisco-CyberSec2/blob/master/3.1.1.5%20Lab%20-%20Create%20and%20Store%20Strong%20Passwords.pdf) Создание и сохранение надежных паролей.
 
